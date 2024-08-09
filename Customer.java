@@ -1,6 +1,4 @@
 package car_Rental_System_Project;
-
-
 class Customer {
     private int Customerid;
     private String Cname;
